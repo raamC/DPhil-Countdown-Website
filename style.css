@@ -1,0 +1,45 @@
+table{
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+
+
+    border-spacing: 3em;
+    text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color:#999999;
+}
+
+caption {
+    padding: 15px;
+    font-size: 5vw;
+    font-weight: 400;
+}
+
+#values{
+	font-size: 15vw;
+	font-weight: 700;
+}
+
+#labels{
+font-size: 3vw;
+font-weight: 400;
+}
+
+#seconds{
+	color: #59e3d5;
+}
+
+body {
+    background-color: #0f1f29;
+}
+
+/*
+
+dark grey #333333
+dark blue #0f1f29
+white #ffffff
+teal #59e3d5
+light grey #999999
+
+*/
